@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Image Studio",
+  "description": "An application to edit and analyze images using text prompts powered by the Gemini 2.5 Flash and Gemini 2.5 Flash Image models.",
+  "requestFramePermissions": []
+}
